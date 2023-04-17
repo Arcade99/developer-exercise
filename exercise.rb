@@ -2,15 +2,13 @@
 
   ABOUT ME:
   
-  Hey, my name is Shane, I'm 23, and I'm a programmer working
-  and living in Santa Cruz County. Specifically I live about 20 minutes
-  away from your office (just over the hill in Corralitos), 
-  I drive by it pretty frequently and would be happy to work 
-  in-person as I enjoy the IRL interaction.
+  My name is Shane, I'm a local programmer who's applying to your developer/devops position.
+  I applied on Indeed.com but I also remembered that you had an interesting application exercise on your website,
+  so I'm applying via the developer exercise as well.
 
-  I applied to a position you posted on Indeed.com but I remembered that
-  you had this application exercise on your website so I figured I'd
-  apply this way too.
+  I've lived a mere 20 minutes away from your offices for about 11 years, specifically in Corralitos.
+  I'm motivated to work at a local company, and would be more than happy to work in-person Monday-Friday.
+  My resume includes all of my professional information but I'd be happy to go over my experiences in more detail.
 
   If you'd like to know more about me my phone number is
   831-706-6620 and my email is shanewinand@gmail.com.
