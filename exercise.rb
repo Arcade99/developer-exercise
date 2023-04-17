@@ -1,3 +1,28 @@
+=begin
+
+  ABOUT ME:
+  
+  Hey, my name is Shane, I'm 23, and I'm a programmer working
+  and living in Santa Cruz. Specifically I live about 20 minutes
+  away from your office (just over the hill in Corralitos), 
+  I drive by it pretty frequently and would be happy to work 
+  in-person as I enjoy the IRL interaction.
+
+  I applied to a position you posted on Indeed.com but I remembered that
+  you had this application exercise on your website so I figured I'd
+  apply this way too.
+
+  If you'd like to know more about me my phone number is
+  831-706-6620 and my email is shanewinand@gmail.com.
+
+  I'd be more than happy to go over my resume and professional
+  experience.
+
+  I hope to hear from you soon,
+  -Shane
+
+=end
+
 class Exercise
 
   # Assume that "str" is a sequence of words separated by spaces.
