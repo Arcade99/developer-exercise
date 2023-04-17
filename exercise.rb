@@ -3,7 +3,7 @@
   ABOUT ME:
   
   Hey, my name is Shane, I'm 23, and I'm a programmer working
-  and living in Santa Cruz. Specifically I live about 20 minutes
+  and living in Santa Cruz County. Specifically I live about 20 minutes
   away from your office (just over the hill in Corralitos), 
   I drive by it pretty frequently and would be happy to work 
   in-person as I enjoy the IRL interaction.
